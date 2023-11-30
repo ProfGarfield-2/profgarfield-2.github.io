@@ -57,5 +57,6 @@ A program to interpret Lua comments as documentation.  Available as an extension
 
 ## Lessons
 
+[Table of Contents](lua_lessons/lessons_toc.html)
 
 ---
