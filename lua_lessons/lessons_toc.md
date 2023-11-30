@@ -2,6 +2,7 @@
 tabTitle: Lessons
 layout: page
 navTitle: Lua Lessons
+title: Lua Lessons
 ---
 
 # Learn Lua Programming For Test of Time

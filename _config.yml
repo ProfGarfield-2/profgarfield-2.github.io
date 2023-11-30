@@ -28,6 +28,7 @@ plugins:
 header_pages:
   - lua_lessons/lessons_toc.md
   - auto_doc/autoIndex.md
+  - executionPoints.md
   - about.md
 
 # Set to `true` to show excerpts on the homepage.

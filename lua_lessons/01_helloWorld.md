@@ -1,7 +1,7 @@
 ---
 layout: page
 tabTitle: Hello World (Lesson 1)
-title: Hello World
+title: Hello World (Lesson 1)
 ---
 
 | Next: [Writing Programs](02_writingScripts.html)
