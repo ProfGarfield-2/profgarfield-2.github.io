@@ -26,9 +26,9 @@ plugins:
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
 header_pages:
-  - lua_lessons/lessons_toc.html
-  - auto_doc/autoIndex.html
-  - about.html
+  - lua_lessons/lessons_toc.md
+  - auto_doc/autoIndex.md
+  - about.md
 
 # Set to `true` to show excerpts on the homepage.
 #show_excerpts: false
@@ -43,7 +43,7 @@ minima:
   # solarized-light	   Light variant of solarized color scheme.
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
-  skin: classic
+  skin: auto
   
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
